@@ -34,7 +34,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: AXELNIG
+    copyright: Company Name
     enable: yes
     quicklinks:
       - alt: HTML5 UP
